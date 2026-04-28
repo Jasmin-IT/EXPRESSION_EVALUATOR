@@ -21,9 +21,13 @@ A visual DSA mini-project that shows how arithmetic expressions are processed us
 
 ## Run Locally
 
-1. Install dependencies:
+1.clone the repository 
+    git clone 
+
+2. Install dependencies:
    - `pip install streamlit pandas`
-2. Start the app:
+
+3. Start the app:
    - `streamlit run app.py`
 
 ## Input Examples
