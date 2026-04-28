@@ -22,10 +22,12 @@ A visual DSA mini-project that shows how arithmetic expressions are processed us
 ## Run Locally
 
 1.clone the repository 
-    git clone 
+    -`git clone https://github.com/Jasmin-IT/EXPRESSION_EVALUATOR.git`
 
 2. Install dependencies:
    - `pip install streamlit pandas`
+   - or
+   - `pip install requirements.txt`
 
 3. Start the app:
    - `streamlit run app.py`
